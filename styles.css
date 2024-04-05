@@ -1,0 +1,22 @@
+body{
+    font-family: 'Comic Sans MS';
+}
+#webpage-title {
+    text-align: center;
+}
+
+#introduction-title {
+    text-align: center;
+    color: #333;
+}
+
+#introduction-text {
+    text-align: justify;
+    margin: 0 auto;
+    width: 60%;
+    color: #666;
+}
+#introduction-image {
+    display: block;
+    margin: auto;
+}
