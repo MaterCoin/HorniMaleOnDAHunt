@@ -1,5 +1,11 @@
 body{
     font-family: 'Comic Sans MS';
+    background-image: url('./assets/background_Image.png');
+    background-repeat: no-repeat;
+    background-size: 100% fixed;
+    background-position: center top;
+    background-attachment: fixed;
+
 }
 #webpage-title {
     text-align: center;
@@ -19,4 +25,8 @@ body{
 #introduction-image {
     display: block;
     margin: auto;
+}
+
+#road-map-list {
+    list-style-type: none;
 }
